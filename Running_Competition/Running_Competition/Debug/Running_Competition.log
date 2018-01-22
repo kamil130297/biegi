@@ -1,0 +1,12 @@
+﻿  Running_Competition.cpp
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(165): warning C4101: "exchange_date": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(162): warning C4101: "zmienna": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(280): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(284): warning C4101: "exchange_date": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(279): warning C4101: "zmienna": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(488): warning C4101: "liczba": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(547): warning C4101: "nr": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(538): warning C4101: "pokaz": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil drzymała\documents\visual studio 2015\projects\running_competition\running_competition\running_competition.cpp(537): warning C4101: "zmienna": lokalna zmienna, do której nie istnieje odwołanie
+  Running_Competition.vcxproj -> c:\users\kamil drzymała\documents\visual studio 2015\Projects\Running_Competition\Debug\Running_Competition.exe
+  Running_Competition.vcxproj -> c:\users\kamil drzymała\documents\visual studio 2015\Projects\Running_Competition\Debug\Running_Competition.pdb (Full PDB)
